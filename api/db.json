@@ -1,4 +1,213 @@
 {
-    "language": [],
+    "english": {
+        "pages": {
+            "home": {
+                "title": "G502 Hero Wireless",
+                "subTitle": "logistics's High Performance Wireless Gaming Mouse",
+                "description": "G502 HERO features an advanced optical sensor for maximum tracking accuracy, customizable RGB lighting, custom game profiles, from 100 up to 16,000 DPI, and repositionable weights.",
+                "btnAdd": "add to card",
+                "btnMore": "More Details"
+            },
+            "about": {
+                "title": "A REBORN HERO",
+                "description": "G502 HERO features an advanced optical sensor for maximum trackingaccuracy, customizable RGB lighting, custom game profiles, from 100 upto 16,000 DPI, and repositionable weights.",
+                "items": [
+                    {
+                        "title": "HERO 16K",
+                        "subTitle": "Our Most Accurate"
+                    },
+                    {
+                        "title": "11 Buttons",
+                        "subTitle": "Fully Programmable"
+                    },
+                    {
+                        "title": "Five 3.6g",
+                        "subTitle": "Adjustable weights"
+                    }
+                ],
+                "tooltip": "Advanced features require Logitech G HUB, available for download at logitechg.com/downloads"
+            },
+            "contact": {
+                "title": "Corporate Office",
+                "items": [
+                    {
+                        "title": "Silicon Valley Campus",
+                        "description": "Americas  7700 Gateway Blvd. Newark, CA 94560 USA  +1510-795-8500 Monday - Friday, 8:00am - 5:00pm PST"
+                    },
+                    {
+                        "title": "Logitech Europe S.A",
+                        "description": "EPFL - Quartier de l'Innovation Daniel Borel Innovation Center CH- 1015 Lausanne +41 (0)21 863 55 11 +41 (0)21 863 55 12 Fax"
+                    },
+                    {
+                        "title": "SUPPORT / WARRANTY CLAIMS",
+                        "description": "+1 646-454-3200"
+                    },
+                    {
+                        "title": "Logitech Audio Group - Business Office",
+                        "description": "4700 NW Camas Meadows Drive  Camas, WA 98607  +1 360-817-1200  Monday - Friday,  8:00am - 5:00pm PT"
+                    }
+                ]
+            },
+            "buy": {
+                "title": "Guest Checkout",
+                "subtitle": "Have an account?",
+                "linkText": "Sign in",
+                "titleEmail": "Contact information",
+                "subscribeText": "Yes, I would like to be notified of product updates, upgrades, and special offerings!",
+                "titleAddress": "Shipping address",
+                "btnText": "continue to payment",
+                "productDetails": {
+                    "title": "Order summary",
+                    "subTitle": "Reference # 3985423539",
+                    "name": "G502 HERO High Performance Gaming Mouse - Black",
+                    "price": "$49.99",
+                    "shippingText": "Estimated Shipping:",
+                    "ShippingPrice": "Free",
+                    "totalText": "Subtotal (tax not included)",
+                    "totalPrice": "$49.99"
+                }
+            }
+        }
+    },
+    "spanish": {
+        "pages": {
+            "home": {
+                "title": "G502 Hero inalámbrico",
+                "subTitle": "Mouse inalámbrico para juegos de alto rendimiento de logistics",
+                "description": "G502 HERO cuenta con un sensor óptico avanzado para una máxima precisión de seguimiento, iluminación RGB personalizable, perfiles de juego personalizados, desde 100 hasta 16,000 DPI y pesos reposicionables.",
+                "btnAdd": "agregar a la tarjeta",
+                "btnMore": "Más detalles"
+            },
+            "about": {
+                "title": "UN HÉROE REBORN",
+                "description": "G502 HERO cuenta con un sensor óptico avanzado para una máxima precisión de seguimiento, iluminación RGB personalizable, perfiles de juego personalizados, desde 100 hasta 16.000 DPI y pesos reposicionables.",
+                "items": [
+                    {
+                        "title": "HÉROE 16K",
+                        "subTitle": "Nuestro más preciso"
+                    },
+                    {
+                        "title": "11 botones",
+                        "subTitle": "Totalmente programable"
+                    },
+                    {
+                        "title": "Cinco 3.6g",
+                        "subTitle": "Pesos ajustables"
+                    }
+                ],
+                "tooltip": "Las funciones avanzadas requieren Logitech G HUB, disponible para descargar en logitechg.com/downloads"
+            },
+            "contact": {
+                "title": "Oficina corporativa",
+                "items": [
+                    {
+                        "title": "Campus de Silicon Valley",
+                        "description": "Américas  7700 Gateway Blvd.  Newark, CA 94560 EE. UU.  + 1510-795-8500  Lunes Viernes, De 8:00 a. M. A 5:00 p. M. PST"
+                    },
+                    {
+                        "title": "Logitech Europa S.A",
+                        "description": "EPFL - Quartier de l'Innovation  Centro de Innovación Daniel Borel    CH- 1015 Lausanneb    +41 (0) 21 863 55 11  +41 (0) 21 863 55 12 Fax"
+                    },
+                    {
+                        "title": "RECLAMOS DE SOPORTE / GARANTÍA",
+                        "description": "+1 646-454-3200"
+                    },
+                    {
+                        "title": "Logitech Audio Group - Oficina comercial",
+                        "description": "4700 NW Camas Meadows Drive  Camas, WA 98607  + 1360-817-1200 unes Viernes,  8:00 am a 5:00 pm PT"
+                    }
+                ]
+            },
+            "buy": {
+                "title": "Pago como invitado",
+                "subTitle": "Tienes una cuenta?",
+                "linkText": "Registrarse",
+                "titleEmail": "Información del contacto",
+                "subscribeText": "Sí, me gustaría recibir notificaciones sobre actualizaciones de productos, mejoras y ofertas especiales.",
+                "titleAddress": "Dirección de Envío",
+                "btnText": "continuar con el pago",
+                "productDetails": {
+                    "title": "Resumen de pedido",
+                    "subTitle": "Referencia # 3985423539",
+                    "name": "Ratón para juegos de alto rendimiento G502 HERO - Negro",
+                    "price": "€0.086",
+                    "shippingText": "Envío estimado:",
+                    "ShippingPrice": "Gratis",
+                    "totalText": "Subtotal (impuestos no incluidos)",
+                    "totalPrice": "€0.086"
+                }
+            }
+        }
+    },
+    "persian": {
+        "pages": {
+            "home": {
+                "title": "G502 یکی از پرچمداران",
+                "subTitle": "ماوس مخصوص بازی بی سیم تدارکات",
+                "description": "G502 HERO از یک سنسور نوری پیشرفته برای حداکثر دقت ردیابی ، نورپردازی RGB قابل تنظیم ، پروفایل های بازی سفارشی ، از 100 تا 16000 DPI و وزن های قابل تغییر برخوردار است.",
+                "btnAdd": "خرید",
+                "btnMore": "جزئیات"
+            },
+            "about": {
+                "title": "یک قهرمان متولد شده",
+                "description": "G502 HERO دارای یک سنسور نوری پیشرفته برای حداکثر دقت ردیابی ، نورپردازی RGB قابل تنظیم ، پروفایل بازی های سفارشی ، از 100 تا 16000 DPI و وزن قابل تغییر است.",
+                "items": [
+                    {
+                        "title": "قهرمان 16K",
+                        "subTitle": "دقیق ترین ما"
+                    },
+                    {
+                        "title": "11 دکمه",
+                        "subTitle": "کاملاً قابل برنامه ریزی"
+                    },
+                    {
+                        "title": "پنج 3.6 گرم",
+                        "subTitle": "وزنه های قابل تنظیم"
+                    }
+                ],
+                "tooltip": "ویژگی های پیشرفته به Logitech G HUB نیاز دارند که برای بارگیری در سایت logitechg.com/downloads در دسترس است"
+            },
+            "contact": {
+                "title": "دفتر شرکت",
+                "items": [
+                    {
+                        "title": "پردیس سیلیکون ولی",
+                        "description": "آمریکا  بلوار 7700 دروازه Newark، CA 94560 USA + 1510-795-8500 دوشنبه جمعه، 8:00 صبح - 5:00 بعد از ظهر PST"
+                    },
+                    {
+                        "title": "لاجیتک اروپا S.A",
+                        "description": "EPFL - نوآوری چهارم  مرکز نوآوری دانیل بورل    CH- 1015 لوزانب    +41 (0) 21 863 55 11  +41 (0) 21 863 55 12 نمابر"
+                    },
+                    {
+                        "title": "ادعاهای پشتیبانی / ضمانت",
+                        "description": "+1 646-454-3200"
+                    },
+                    {
+                        "title": "گروه صوتی Logitech - دفتر بازرگانی",
+                        "description": "4700 NW کاماس مرغزار درایو  کاماس، WA 98607  +1 360-817-1200 شنبه جمعه،  8:00 صبح - 5:00 بعد از ظهر PT"
+                    }
+                ]
+            },
+            "buy": {
+                "title": "وارسی میهمان",
+                "subTitle": "حساب کاربری دارید؟",
+                "linkText": "ورود",
+                "titleEmail": "اطلاعات تماس",
+                "subscribeText": "بله ، من می خواهم از به روزرسانی ها ، به روزرسانی ها و پیشنهادات ویژه محصولات مطلع شوم!",
+                "titleAddress": "آدرس حمل و نقل",
+                "btnText": "ادامه پرداخت",
+                "productDetails": {
+                    "title": "خلاصه سفارش",
+                    "subTitle": "مرجع # 3985423539",
+                    "name": "ماوس G502 HERO با عملکرد بالا - سیاه",
+                    "price": "100,000 تومان",
+                    "shippingText": "حمل و نقل برآورد شده:",
+                    "ShippingPrice": "رایگان",
+                    "totalText": "جمع کل (مالیات شامل نمی شود)",
+                    "totalPrice": "100,000 تومان"
+                }
+            }
+        }
+    },
     "users": []
 }
