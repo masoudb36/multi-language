@@ -33,10 +33,15 @@ const useStyles = makeStyles((theme) => ({
 		'& label': {
 			inset: 'auto',
 			right: 22,
-			fontFamily: 'Samim !important'
+			fontFamily: 'Samim !important',
 		},
 	},
 }));
+const messages = {
+	english: 'Please enter your',
+	spanish: 'Por favor introduzca su',
+	persian: 'لطفا خود را وارد کنید',
+};
 
 const Input = (props) => {
 	const { language } = useContext(LanguageContext);
@@ -44,6 +49,7 @@ const Input = (props) => {
 	const classes = useStyles();
 	const fullWidth = name === 'address' && true;
 	const isPersian = language === 'persian' && true;
+	const message = messages[language];
 	return (
 		<div className={clsx(fullWidth && classes.fullWidth)}>
 			<TextField
@@ -65,7 +71,7 @@ const Input = (props) => {
 				<div>
 					<Zoom in={true}>
 						<Typography className={classes.messageError} variant='caption'>
-							Please enter your {label}
+							{message} {label}
 						</Typography>
 					</Zoom>
 				</div>

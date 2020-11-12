@@ -103,7 +103,7 @@ const Navbar = () => {
 			<Box className={classes.auth}>
 				<MenuLanguage isPersian={isPersian} />
 				<Divider orientation='vertical' variant='middle' flexItem />
-				<Button variant='outlined'>{buttonText}</Button>
+				<Button variant='outlined' href='/login'>{buttonText}</Button>
 			</Box>
 		</div>
 	);

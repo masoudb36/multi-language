@@ -34,10 +34,11 @@ export const useStyles = makeStyles((theme) => ({
 		'& hr': {
 			backgroundColor: '#4e4e4e',
 		},
-		'& button': {
+		'& a': {
 			color: theme.palette.common.white,
 			padding: theme.spacing(1, 3),
 			borderColor: theme.palette.common.white,
+			
 		},
 	},
 	active: {
